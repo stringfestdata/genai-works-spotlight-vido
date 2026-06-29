@@ -1,0 +1,4 @@
+# Node tooling used only to generate the .docx deliverable
+node_modules/
+package.json
+package-lock.json
