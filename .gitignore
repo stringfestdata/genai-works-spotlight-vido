@@ -1,3 +1,6 @@
+# Local Claude Code worktree scaffolding — never part of the repo
+.claude/
+
 # Node tooling used only to generate the .docx deliverable
 node_modules/
 package.json
